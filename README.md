@@ -12,5 +12,8 @@ To collect user lifestyle and health data for personalized risk analysis.
 To develop an intelligent system to assess diabetes risk.
 To enable early detection for better prevention and management.
 To build and train a predictive model to estimate diabetes risk levels.
-<img width="3410" height="949" alt="image" src="https://github.com/user-attachments/assets/ca436e18-097a-41ff-adaa-61812d62ae9a" />
+
+**Target Population:**
+Only the students from Rajarata University of Sri Lanka. 
+
 
